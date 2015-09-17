@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android\Code\TaskManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="E:\Android\Code\TaskManager\app\build\intermediates\pre-dexed\debug\classes-e8cd7818fed7e5322d604d658b1d758b8de29d68.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Android\Code\TaskManager\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-be220b38eb335326b6406b05fa5b60644c539549.jar" />
+    </item>
+
+</items>

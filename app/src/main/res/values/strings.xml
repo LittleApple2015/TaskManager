@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaskManager</string>
+   <string name="idtxthint">用户名</string>
+    <string name="pwdtxthint">密码</string>
+    <string name="loginbtntext">登录</string>
+    <string name="forgot_pwd">忘记密码？</string>
+    <string name="loading">正在登录</string>
+    <string name="title_activity_task">TaskActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
